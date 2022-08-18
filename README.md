@@ -13,9 +13,10 @@ Hi There, my name is <strong>Khaidir</strong> — I'm a Web Developer.! ✌️
 Here are some ideas to get you started:
 -->
 
-<!--
+
 - 🔭 I’m currently working as a teacher in a vocational high school
 - 🌱 I’m currently learning React, and Android Programming
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
