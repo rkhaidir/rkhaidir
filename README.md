@@ -1,4 +1,10 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=rkhaidir&color=000000&label=Profile+Visit's)
+<p align="center">
+Hi There, my name is <strong>Khaidir</strong> — I'm a Web Developer.! ✌️
+</p>
+
+![](https://img.shields.io/badge/-PHP-9d03fc?logo=PHP&logoColor=white)
+![](https://img.shields.io/badge/-Laravel-a4347?logo=React&logoColor=white)
 
 <!--
 **rkhaidir/rkhaidir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
