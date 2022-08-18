@@ -5,15 +5,17 @@ Hi There, my name is <strong>Khaidir</strong> — I'm a Web Developer.! ✌️
 
 ![](https://img.shields.io/badge/-PHP-9d03fc?logo=PHP&logoColor=white)
 ![](https://img.shields.io/badge/-Laravel-fa4347?logo=Laravel&logoColor=white)
-![](https://img.shields.io/badge/-Kotlin-ffa200?logo=Kotlin&logoColor=white)
+![](https://img.shields.io/badge/-Javascript-ffa200?logo=Javascript&logoColor=white)
+![](https://img.shields.io/badge/-ReactJS-61DBFB?logo=ReactJS&logoColor=white)
+![](https://img.shields.io/badge/-NodeJS-05f70d?logo=NodeJS&logoColor=white)
 
 <!--
-**rkhaidir/rkhaidir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+<!--
+- 🔭 I’m currently working as a teacher in a vocational high school
+- 🌱 I’m currently learning React, and Android Programming
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
