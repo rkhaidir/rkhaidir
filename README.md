@@ -1,7 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=rkhaidir&color=000000&label=Profile+Visit's)
 <p align="justify">
-Hi There, my name is <strong>Khaidir</strong> — I'm a Web Developer.! ✌️
+Hi There, my name is <strong>Rakhmat Khaidir</strong> — I'm a Web Developer.! ✌️
 </p>
+
+---
 
 ![](https://img.shields.io/badge/-PHP-9d03fc?logo=PHP&logoColor=white)
 ![](https://img.shields.io/badge/-Laravel-fa4347?logo=Laravel&logoColor=white)
@@ -24,3 +26,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![rkhaidir github stats](https://github-readme-stats.vercel.app/api?username=rkhaidir)](https://github.com/anuraghazra/github-readme-stats)
