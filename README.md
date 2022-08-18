@@ -7,7 +7,7 @@ Hi There, my name is <strong>Khaidir</strong> — I'm a Web Developer.! ✌️
 ![](https://img.shields.io/badge/-Laravel-fa4347?logo=Laravel&logoColor=white)
 ![](https://img.shields.io/badge/-Javascript-ffa200?logo=Javascript&logoColor=white)
 ![](https://img.shields.io/badge/-ReactJS-61DBFB?logo=React&logoColor=white)
-![](https://img.shields.io/badge/-NodeJS-05f70d?logo=Node&logoColor=white)
+![](https://img.shields.io/badge/-NodeJS-05f70d?logo=Node.js&logoColor=white)
 
 <!--
 Here are some ideas to get you started:
