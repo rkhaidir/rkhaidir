@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 -->
 
 [![rkhaidir github stats](https://github-readme-stats.vercel.app/api?username=rkhaidir&show_icons=true&theme=vue )](https://github.com/rkhaidir)
+[![rkhaidir_most_language](https://github-readme-stats.vercel.app/api/top-langs/?username=rkhaidir&layout=compact&hide_border=true)]
+
