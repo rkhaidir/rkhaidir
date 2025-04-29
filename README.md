@@ -22,10 +22,10 @@ Hi There, my name is <strong>Rakhmat Khaidir</strong> — I'm a Web Developer.! 
 </table>
 
 ---
-
+![](https://img.shields.io/badge/-HTML-fc7703?logo=HTML&logoColor=white)
 ![](https://img.shields.io/badge/-PHP-9d03fc?logo=PHP&logoColor=white)
-![](https://img.shields.io/badge/-Laravel-fa4347?logo=Laravel&logoColor=white)
 ![](https://img.shields.io/badge/-Javascript-ffa200?logo=Javascript&logoColor=white)
+![](https://img.shields.io/badge/-Laravel-fa4347?logo=Laravel&logoColor=white)
 ![](https://img.shields.io/badge/-ReactJS-61DBFB?logo=React&logoColor=white)
 ![](https://img.shields.io/badge/-NodeJS-05f70d?logo=Node.js&logoColor=white)
 
