@@ -13,9 +13,9 @@ Hi There, my name is <strong>Rakhmat Khaidir</strong> — I'm a Web Developer.! 
   </tr>
   <tr>
     <td>
-      <img src="https://i.ibb.co.com/bgYK8c4L/Tailwindcss6.png" alt="Tailwind" width="150" />
-      <img src="https://i.ibb.co.com/QvSBB0Q2/Laravel.png" alt="Tailwind" width="150" />
-      <img src="https://i.ibb.co.com/kgzNS0GJ/Node-js.png" alt="Tailwind" width="150" />
+      <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/refs/heads/main/Tailwindcss/Tailwindcss6.png" alt="Tailwind" width="150" />
+      <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/refs/heads/main/Laravel/Laravel.png" alt="Tailwind" width="150" />
+      <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/refs/heads/main/Node.js/Node.js.png" alt="Tailwind" width="150" />
     </td>
   </tr>
 </table>
