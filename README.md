@@ -1,4 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=rkhaidir&color=000000&label=Profile+Visit's)
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&width=435&separator=%3D&lines=%3C%3Fphp+echo+%22Hello+World%22;+%3F%3E" alt="Typing SVG" /></a>
+</div>
+
 <p align="justify">
 Hi There, my name is <strong>Rakhmat Khaidir</strong> — I'm a Web Developer.! ✌️
 </p>
