@@ -9,6 +9,7 @@ Hi There, my name is <strong>Rakhmat Khaidir</strong> — I'm a Web Developer.! 
     <td align="center">
       <img src="https://i.ibb.co.com/pvB5bTvr/HTML.png" alt="HTML" width="150" />
       <img src="https://i.ibb.co.com/bgdqGRYX/CSS.png" alt="CSS" width="150" />
+      <img src="https://i.ibb.co.com/4gwDXpMS/shadowed.png" alt="PHP" width="150" />
     </td>
   </tr>
   <tr>
@@ -44,6 +45,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![rkhaidir github stats](https://github-readme-stats.vercel.app/api?username=rkhaidir&show_icons=true&theme=vue )](https://github.com/rkhaidir)
-[![rkhaidir github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rkhaidir&layout=compact)](https://github.com/rkhaidir)
-
+<table>
+  <tr>
+    <td>
+      [![rkhaidir github stats](https://github-readme-stats.vercel.app/api?username=rkhaidir&show_icons=true&theme=vue)](https://github.com/rkhaidir)
+    </td>
+    <td>
+      [![rkhaidir github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rkhaidir&layout=compact)](https://github.com/rkhaidir)
+    </td>
+  </tr>
+</table>
