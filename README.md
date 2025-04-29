@@ -7,7 +7,7 @@ Hi There, my name is <strong>Rakhmat Khaidir</strong> — I'm a Web Developer.! 
 <table>
   <tr>
     <td align="center">
-      <img src="https://i.ibb.co.com/pvB5bTvr/HTML.png" alt="HTML" width="150" />
+      <img src="https://i.ibb.co.com/pvB5bTvr/html5.png" alt="HTML" width="150" />
       <img src="https://i.ibb.co.com/bgdqGRYX/CSS.png" alt="CSS" width="150" />
       <img src="https://i.ibb.co.com/4gwDXpMS/shadowed.png" alt="PHP" width="150" />
     </td>
