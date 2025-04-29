@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td colspan="4">
+    <td>
       <img width="200" align="center" src="https://github-readme-stats.vercel.app/api?username=rkhaidir&show_icons=true&show=reviews" />
       <img width="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkhaidir&layout=compact" />
     </td>
