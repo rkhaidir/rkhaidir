@@ -9,7 +9,13 @@ Hi There, my name is <strong>Rakhmat Khaidir</strong> — I'm a Web Developer.! 
     <td align="center">
       <img src="https://i.ibb.co.com/pvB5bTvr/HTML.png" alt="HTML" width="150" />
       <img src="https://i.ibb.co.com/bgdqGRYX/CSS.png" alt="CSS" width="150" />
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="https://i.ibb.co.com/bgYK8c4L/Tailwindcss6.png" alt="Tailwind" width="150" />
+      <img src="https://i.ibb.co.com/QvSBB0Q2/Laravel.png" alt="Tailwind" width="150" />
+      <img src="https://i.ibb.co.com/kgzNS0GJ/Node-js.png" alt="Tailwind" width="150" />
     </td>
   </tr>
 </table>
