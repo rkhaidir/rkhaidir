@@ -48,8 +48,18 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <img width="200" align="center" src="https://github-readme-stats.vercel.app/api?username=rkhaidir&show_icons=true&show=reviews" />
-      <img width="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkhaidir&layout=compact" />
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=rkhaidir&show_icons=true&show=reviews"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img width="200" align="center" src="https://github-readme-stats.vercel.app/api?username=rkhaidir&show_icons=true&show=reviews" />
+      </picture>
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rkhaidir&layout=compact&hide_border=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img width="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkhaidir&layout=compact" />
+      </picture>
     </td>
   </tr>
 </table>
