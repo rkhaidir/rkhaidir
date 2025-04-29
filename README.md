@@ -4,8 +4,8 @@ Hi There, my name is <strong>Rakhmat Khaidir</strong> — I'm a Web Developer.! 
 </p>
 
 ---
-![](https://i.ibb.co.com/pvB5bTvr/HTML.png)
-![](https://i.ibb.co.com/bgdqGRYX/CSS.png)
+<img src="https://i.ibb.co.com/pvB5bTvr/HTML.png" alt="HTML" width="150" />
+<img src="https://i.ibb.co.com/bgdqGRYX/CSS.png" alt="HTML" width="150" />
 ---
 
 ![](https://img.shields.io/badge/-PHP-9d03fc?logo=PHP&logoColor=white)
