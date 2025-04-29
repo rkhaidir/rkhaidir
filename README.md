@@ -47,11 +47,9 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td>
-      [![rkhaidir github stats](https://github-readme-stats.vercel.app/api?username=rkhaidir&show_icons=true&theme=vue)](https://github.com/rkhaidir)
-    </td>
-    <td>
-      [![rkhaidir github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rkhaidir&layout=compact)](https://github.com/rkhaidir)
+    <td colspan="4">
+      <img width="200" align="center" src="https://github-readme-stats.vercel.app/api?username=rkhaidir&show_icons=true&show=reviews" />
+      <img width="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkhaidir&layout=compact" />
     </td>
   </tr>
 </table>
