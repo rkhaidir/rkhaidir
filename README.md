@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<hr/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Web Developer-99FFCC" />&emsp;
