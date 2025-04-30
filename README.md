@@ -27,7 +27,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Web Developer-99FFCC" />&emsp;
   <img src="https://img.shields.io/badge/BackEnd Developer-FFFF00" />&emsp;
 </div>
----
+
+<hr/>
+
 <table style="width:100%">
   <tr>
     <td align="center">
