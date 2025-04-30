@@ -11,16 +11,18 @@ Hi There, my name is <strong>Rakhmat Khaidir</strong> — I'm a Web Developer.! 
 <table>
   <tr>
     <td align="center">
-      <img src="https://i.ibb.co.com/pvB5bTvr/html5.png" alt="HTML" width="150" />
-      <img src="https://i.ibb.co.com/bgdqGRYX/CSS.png" alt="CSS" width="150" />
-      <img src="https://i.ibb.co.com/4gwDXpMS/shadowed.png" alt="PHP" width="150" />
+      <img src="https://i.ibb.co.com/7tpSc6q5/HTML-Logotype.png" alt="HTML" width="150" />
+      <img src="https://i.ibb.co.com/V0CZvTZW/CSS-Logotype.png" alt="CSS" width="150" />
+      <img src="https://i.ibb.co.com/q3tqKBmy/Javascript-Logotype.png" alt="Javascript" width="150" />
+      <img src="https://i.ibb.co.com/FktmPRH4/PHP-Logotype.png" alt="PHP" width="150" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/refs/heads/main/Tailwindcss/Tailwindcss6.png" alt="Tailwind" width="150" />
-      <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/refs/heads/main/Laravel/Laravel.png" alt="Tailwind" width="150" />
-      <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/refs/heads/main/Node.js/Node.js.png" alt="Tailwind" width="150" />
+      <img src="https://i.ibb.co.com/WYtd8BD/Bootstrap-Logotype.png" alt="Bootstrap" width="150" />
+      <img src="https://i.ibb.co.com/0yQfFtKs/Tailwindcss-Logotype.png" alt="Tailwind" width="150" />
+      <img src="https://i.ibb.co.com/jPYtmsfb/React.png" alt="React" width="150" />
+      <img src="https://i.ibb.co.com/HLzMnVPc/Laravel-Logotype.png" alt="Laravel" width="150" />
     </td>
   </tr>
 </table>
