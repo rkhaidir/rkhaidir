@@ -23,14 +23,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Web Developer-99FFCC" />&emsp;
+  <img src="https://img.shields.io/badge/BackEnd Developer-FFFF00" />&emsp;
+</div>
 ---
-<table>
-  <tr>
-    <div align="center">
-      <img src="https://img.shields.io/badge/Web Developer-99FFCC" />&emsp;
-      <img src="https://img.shields.io/badge/Back-End Developer-FFFF00" />&emsp;
-    </div>
-  </tr>
+<table style="width:100%">
   <tr>
     <td align="center">
       <img src="https://i.ibb.co.com/7tpSc6q5/HTML-Logotype.png" alt="HTML" width="150" />
