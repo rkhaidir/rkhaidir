@@ -7,8 +7,30 @@
 Hi There, my name is <strong>Rakhmat Khaidir</strong> — I'm a Web Developer.! ✌️
 </p>
 
+<!--
+Here are some ideas to get you started:
+-->
+
+
+- 🔭 I’m currently working as a teacher in a vocational high school
+- 🌱 I’m currently learning React, and Android Programming
+<!--
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 ---
 <table>
+  <tr>
+    <div align="center">
+      <img src="https://img.shields.io/badge/Web Developer-99FFCC" />&emsp;
+      <img src="https://img.shields.io/badge/Back-End Developer-FFFF00" />&emsp;
+    </div>
+  </tr>
   <tr>
     <td align="center">
       <img src="https://i.ibb.co.com/7tpSc6q5/HTML-Logotype.png" alt="HTML" width="150" />
@@ -28,28 +50,7 @@ Hi There, my name is <strong>Rakhmat Khaidir</strong> — I'm a Web Developer.! 
 </table>
 
 ---
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
----
 
-<!--
-Here are some ideas to get you started:
--->
-
-
-- 🔭 I’m currently working as a teacher in a vocational high school
-- 🌱 I’m currently learning React, and Android Programming
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=rkhaidir&show_icons=true&show=reviews"
