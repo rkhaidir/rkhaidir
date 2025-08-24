@@ -34,18 +34,18 @@ Here are some ideas to get you started:
 <table style="width:100%">
   <tr>
     <td align="center">
-      <img src="https://i.ibb.co.com/7tpSc6q5/HTML-Logotype.png" alt="HTML" width="150" />
-      <img src="https://i.ibb.co.com/V0CZvTZW/CSS-Logotype.png" alt="CSS" width="150" />
-      <img src="https://i.ibb.co.com/q3tqKBmy/Javascript-Logotype.png" alt="Javascript" width="150" />
-      <img src="https://i.ibb.co.com/FktmPRH4/PHP-Logotype.png" alt="PHP" width="150" />
+      <img src="https://raw.githubusercontent.com/rkhaidir/rkhaidir/refs/heads/main/logo/html.png" alt="HTML" width="150" />
+      <img src="https://raw.githubusercontent.com/rkhaidir/rkhaidir/refs/heads/main/logo/css.png" alt="CSS" width="150" />
+      <img src="https://raw.githubusercontent.com/rkhaidir/rkhaidir/refs/heads/main/logo/javascript.png" alt="Javascript" width="150" />
+      <img src="https://raw.githubusercontent.com/rkhaidir/rkhaidir/refs/heads/main/logo/php.png" alt="PHP" width="150" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://i.ibb.co.com/WYtd8BD/Bootstrap-Logotype.png" alt="Bootstrap" width="150" />
-      <img src="https://i.ibb.co.com/0yQfFtKs/Tailwindcss-Logotype.png" alt="Tailwind" width="150" />
-      <img src="https://i.ibb.co.com/jPYtmsfb/React.png" alt="React" width="150" />
-      <img src="https://i.ibb.co.com/HLzMnVPc/Laravel-Logotype.png" alt="Laravel" width="150" />
+      <img src="https://raw.githubusercontent.com/rkhaidir/rkhaidir/refs/heads/main/logo/bootstrap.png" alt="Bootstrap" width="150" />
+      <img src="https://raw.githubusercontent.com/rkhaidir/rkhaidir/refs/heads/main/logo/tailwind.png" alt="Tailwind" width="150" />
+      <img src="https://raw.githubusercontent.com/rkhaidir/rkhaidir/refs/heads/main/logo/react.png" alt="React" width="150" />
+      <img src="https://raw.githubusercontent.com/rkhaidir/rkhaidir/refs/heads/main/logo/laravel.png" alt="Laravel" width="150" />
     </td>
   </tr>
 </table>
