@@ -65,6 +65,6 @@ Here are some ideas to get you started:
   <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkhaidir&layout=compact" />
 </picture>
 <picture>
-  <source srcset="https://streak-stats.demolab.com/?user=rkhaidir&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M[%20Y]&order=3" />
-  <img width="500" align="center" src="https://streak-stats.demolab.com/?user=rkhaidir&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M[%20Y]&order=3" />
+  <source srcset="https://streak-stats.demolab.com/?user=rkhaidir&locale=en&mode=weekly&theme=vue&hide_border=false&border_radius=5&date_format=j%20M[%20Y]&order=3" />
+  <img width="500" align="center" src="https://streak-stats.demolab.com/?user=rkhaidir&locale=en&mode=weekly&theme=vue&hide_border=false&border_radius=5&date_format=j%20M[%20Y]&order=3" />
 </picture>
