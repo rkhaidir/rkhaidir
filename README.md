@@ -68,3 +68,7 @@ Here are some ideas to get you started:
   <source srcset="https://streak-stats.demolab.com/?user=rkhaidir&locale=en&mode=weekly&theme=vue&hide_border=false&border_radius=5&date_format=j%20M[%20Y]&order=3" />
   <img width="350" align="center" src="https://streak-stats.demolab.com/?user=rkhaidir&locale=en&mode=weekly&theme=vue&hide_border=false&border_radius=5&date_format=j%20M[%20Y]&order=3" />
 </picture>
+<picture>
+  <source srcset="https://github-profile-trophy.vercel.app/?username=rkhaidir&theme=vue&column=5&row=5&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" />
+  <img width="350" align="center" src="https://github-profile-trophy.vercel.app/?username=rkhaidir&theme=vue&column=5&row=5&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" />
+</picture>
